@@ -1,0 +1,22 @@
+body
+{
+	background-color: black;
+}
+.nompublic
+{
+	float:left;
+	margin:5px;
+	padding:5px;
+	text-align:center;
+	text-decoration: none;
+	color: white;
+}
+.publicname
+{
+	color: white;
+}
+.ajoutpanier
+{
+	border-radius: 10px;
+	background-color: white;
+}
